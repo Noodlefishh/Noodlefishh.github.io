@@ -11,5 +11,3 @@ In this day and age, all applications and infrastructure that we rely on every d
 If this kind of stuff turns you on, i write about this. If you enjoy it, fine, if you learn something, better !  Let's make DevSecOps and "As Code" environment easy to understand and also, let's bring awereness on this new hunting ground to better secure #1, everyone personnal data and #2, organization.
 
 Welcome and happy that you stumble upon this small blog somewhere out there on a corner of the internet. 
-
-
