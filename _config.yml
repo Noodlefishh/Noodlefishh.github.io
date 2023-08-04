@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Cybersecurity professional involved in DevOps, DevSecOps, CI/CD, Containers security and all things related to the security of the software supply chain.
   
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "noodlefishh.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Noodlefishh
 
 # Build settings
