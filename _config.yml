@@ -18,10 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Noodlefishh - A human perspective on all things cybersecurity
+title: Noodlefishh - Yet another cyber blog
 email: jbourbonnais@tutanota.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Cybersecurity professional involved in DevOps, DevSecOps, CI/CD, Containers security and all things related to the security of the software supply chain.
   
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
